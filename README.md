@@ -27,16 +27,17 @@ GitHub: Para hospedagem do projeto e do arquivo final.
 ## 🧐 Processo de Criação
 1.  **Roteirização (IA de Texto):** O processo iniciou com um prompt detalhado pedindo à IA para atuar como "Tech Writer", definindo o público (devs) e a estrutura exata do conteúdo.
 2.  **Identidade Visual (IA de Imagem):** Usei o Microsoft Designer para gerar a capa, focando em um prompt que transmitisse a ideia de "colaboração" entre humano e IA (pair programming).
-3.  **Montagem (Software de Edição):** O texto e a imagem foram montados no Canva, onde fiz leves ajustes de formatação para garantir a legibilidade. [cite_start]O Canva foi usado de forma similar ao Libre Office ou Descript nos exemplos da DIO[cite: 30, 108].
+3.  **Montagem (Software de Edição):** O texto e a imagem foram montados no Canva, onde fiz leves ajustes de formatação para garantir a legibilidade.
 
 ## 🚀 Resultados
 O resultado é um e-book em PDF, conciso e prático, que detalha 5 ferramentas de IA e como elas podem ser usadas no dia a dia do desenvolvimento de software.
 
 **[Clique aqui para ler o E-book (PDF)]**
-*(Substitua esta linha pelo link do seu `meu-ebook.pdf` que você subiu)*
+[(https://github.com/lucasfelician0/Praticando-IAs-generativas/blob/main/README.md)]
 
-![Capa do E-book](capa.png)
-*(Substitua `capa.png` pelo nome do arquivo da imagem da capa que você subiu)*
+![Capa do E-book]()
+![Designer (1)](https://github.com/user-attachments/assets/8907626f-d460-4d3f-9405-b634695a02b4)
+
 
 ## 💭 Reflexão
 O desafio "Natty or Not" foi excelente para praticar a "Engenharia de Prompt". O mais difícil não é gerar o conteúdo, mas sim fazer as perguntas certas para que a IA gere um conteúdo coeso e que pareça ter sido feito por um especialista humano. A IA é uma assistente poderosa, mas a direção criativa e a curadoria humana são o que transformam o resultado de "genérico" para "natty".
